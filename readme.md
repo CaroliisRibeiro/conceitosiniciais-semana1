@@ -1,4 +1,4 @@
-# ativodade 1  - Ana Carolina ( Carol Ribeiro)
+# atividade 1  - Ana Carolina ( Carol Ribeiro)
 
 ##  1. [ ] Crie um arquivo no formato markdown ex: readme`.md` e nele explique com suas palavras chatGPT ou bard para iniciante em programação ajuda ou atrapalha?
 
